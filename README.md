@@ -9,6 +9,7 @@ ROMA, IT
 Giovane donna e Madre di una splendida creatura di 3 anni.
 
 ```
+---
 *Riepilogo Professionale*:
 
 
@@ -19,10 +20,12 @@ Vasta esperienza maturata nel settore commerciale, sanitario e scolastico.
 - Hostess e Promoter: fragranze e cosmetica, settore beauty per Sephora, Douglas, Mariannaud
 - Istituzione scolastica: Tutor scolastico, OEPA per BES
 
+---
 
 *Competenze*:
 - Capacità di preparare il lavoro in modo autonomo
 
+---
  
 *Istruzione e Formazione* :
 
