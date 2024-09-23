@@ -1,8 +1,9 @@
 # Arianna D'Alessandro
-![foto profilo](file:///C:/Users/marzio/Downloads/WhatsApp%20Image%202024-09-02%20at%2018.00.41.jpeg)
+![foto profilo]()
 
 *Chi sono*:
-```
+```![WhatsApp Image 2024-09-02 at 18 00 41 (1)](https://github.com/user-attachments/assets/61d9877d-00c2-4513-bb0b-74ff3e735d70)
+
 28 anni
 ROMA, IT
 arianna.dalessandro96@gmail.com
