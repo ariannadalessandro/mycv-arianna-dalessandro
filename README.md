@@ -2,7 +2,7 @@
 
 
 ```
-##H2Chi sono:##
+## Chi sono: ##
 Arianna D'Alessandro
 28 anni
 ROMA
