@@ -23,23 +23,24 @@ Istituzione scolastica: Tutor scolastico, OEPA per BES
 *Competenze*:
 - Capacità di preparare il lavoro in modo autonomo
 
-- 
+ 
 - **Azienda X** – Sviluppatore Full Stack
   - Sviluppo di applicazioni web usando React e Node.js
   - Manutenzione del database MongoDB
   - Coordinazione di un team di 5 persone
+    
 - **Azienda Y** – Analista Dati
   - Analisi di grandi set di dati con Python
   - Creazione di dashboard in Power BI
 
 *Istruzione e Formazione* :
-```
-- Laureata in Biologia.
+
+- **Laureata in Biologia**
 - LM in Biologia Evoluzionistica e Antropologia Applicata all'università di Roma Tor Vergata.
 - Corso di Primo soccorso e Primo soccorso nelle ambulanze, Rianimazione cardiopolmonare.
 - Corso base di cyber security.
 - Consulente e Formatore HACCP.
-```
+  
 
 *Competenze Linguistiche e informatiche*:
 ```
