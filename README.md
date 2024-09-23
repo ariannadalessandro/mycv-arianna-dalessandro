@@ -3,7 +3,6 @@
 
 *Chi sono*:
 ```
-
 28 anni
 ROMA, IT
 arianna.dalessandro96@gmail.com
