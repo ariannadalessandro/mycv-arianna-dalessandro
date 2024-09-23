@@ -2,7 +2,7 @@
 
 
 ```
-## Chi sono: ##
+## Chi sono: 
 Arianna D'Alessandro
 28 anni
 ROMA
@@ -10,7 +10,7 @@ ROMA
 
 
 ```
-##Formazione:##
+##Formazione:
 Sono madre di una splendida creatura di 3 anni.
 Sono Laureata in Biologia e sto concludendo la mia formazione in Biologia Evoluzionistica e Antropologia Applicata all'università di Roma Tor Vergata.
 ```
