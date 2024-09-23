@@ -6,9 +6,10 @@ Con un po' di presunzione riconosco il mio valore come risorsa.
 Ho ottime capacità comunicative, mi piace lavorare in team, confrontarmi e mettermi in discussione ma sono altresì determinata a far valere la mia opinione laddove so che è giusto farlo.
 
 ```
-{
-  "Arianna",
- "D'Alessandro",
-  28
-}
+
+ Arianna,
+ D'Alessandro,
+28 anni,
+Roma, IT
+
 ```
