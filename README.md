@@ -35,6 +35,7 @@ Vasta esperienza maturata nel settore commerciale, sanitario e scolastico.
 - Corso base di cyber security.
 - Consulente e Formatore HACCP.
   
+---
 
 *Competenze Linguistiche e informatiche*:
 ```
@@ -45,6 +46,7 @@ Vasta esperienza maturata nel settore commerciale, sanitario e scolastico.
 - Competenze base di HTML e CSS
 - Conoscenza del linguaggio di Programmazione ed R
 ```
+---
 
 *Altre info*:
 ```
