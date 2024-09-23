@@ -1,14 +1,19 @@
-# Ciao a tutti, mi chiamo Arianna D'Alessandro!
+# Arianna D'Alessandro!
+![]()
 
 *Chi sono*:
 ```
-Arianna D'Alessandro
 28 anni
-ROMA
+ROMA, IT
+arianna.dalessandro96@gmail.com
 Giovane donna e Madre di una splendida creatura di 3 anni.
 
 ```
+*Riepilogo Professionale*:
+Vasta esperienza maturata nel settore commerciale, sanitario e scolastico.
 
+*Competenze*:
+- Capacità di preparare il lavoro in modo autonomo
 
 *Istruzione* :
 ```
