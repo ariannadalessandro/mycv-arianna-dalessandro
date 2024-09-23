@@ -7,8 +7,8 @@ Ho ottime capacità comunicative, mi piace lavorare in team, confrontarmi e mett
 
 ```
 {
-  "firstName": "Arianna",
-  "lastName": "D'Alessandro",
-  "age": 28
+  "Arianna",
+ "D'Alessandro",
+  28
 }
 ```
