@@ -1,5 +1,5 @@
 # Arianna D'Alessandro!
-![]()
+![](file:///C:/Users/marzio/Downloads/WhatsApp%20Image%202024-09-02%20at%2018.00.41.jpeg)
 
 *Chi sono*:
 ```
