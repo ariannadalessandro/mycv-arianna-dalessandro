@@ -14,7 +14,7 @@ Giovane donna e Madre di una splendida creatura di 3 anni.
 
 Vasta esperienza maturata nel settore commerciale, sanitario e scolastico.
 
-- **Ristorazione: Chef de rang, 7 anni 
+- Ristorazione: Chef de rang, 7 anni 
 - Sale assistant: cisalfa sport, CAMOMILLA Italia
 - Hostess e Promoter: fragranze e cosmetica, settore beauty per Sephora, Douglas, Mariannaud
 - Istituzione scolastica: Tutor scolastico, OEPA per BES
