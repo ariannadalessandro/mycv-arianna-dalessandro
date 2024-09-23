@@ -10,7 +10,10 @@ Giovane donna e Madre di una splendida creatura di 3 anni.
 
 ```
 *Riepilogo Professionale*:
+
+```
 Vasta esperienza maturata nel settore commerciale, sanitario e scolastico.
+
 
 *Competenze*:
 - Capacità di preparare il lavoro in modo autonomo
