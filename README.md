@@ -83,10 +83,9 @@
 ---
 *Altre info*:
 ```
-Sono una ragazza intraprendente, dinamica ed entustiasta.
-Ho avuto la fortuna di lavorare e allo stesso tempo studiare e ciò mi ha permesso di arricchirmi di esperienze personali e professionali.
-Con un po' di presunzione riconosco il mio valore come risorsa.
-Ho ottime capacità comunicative, mi piace lavorare in team, confrontarmi e mettermi in discussione ma sono altresì determinata a far valere la mia opinione laddove so che è giusto farlo.
+Sono una ragazza di 28 anni, laureata in Biologia, con una forte predisposizione per la cura dei dettagli e la capacità di instaurare relazioni autentiche tra i membri del team. Madre di una bimba di 3 anni, sono intraprendente, dinamica ed entusiasta, desiderosa di entrare in una realtà innovativa e meritocratica.
+Ho competenze in programmazione R e Linux, oltre a una solida base in HTML e CSS. Possiedo spiccate doti di problem solving e capacità di lavorare in team, con una buona conoscenza della lingua inglese (C1) e del pacchetto Microsoft Office.
+Sono determinata a far valere la mia opinione e pronta a mettermi in discussione per crescere professionalmente. Con esperienza nel supporto individuale e di gruppo, sono un elemento affidabile, orientato all'innovazione e alla centralità del lavoro, sempre in grado di definire priorità e assumere responsabilità per raggiungere gli obiettivi con efficienza. Questo riassunto mette in evidenza le tue competenze, esperienze e qualità personali in modo conciso e chiaro.
 ```
 ###I Miei Progetti
 
